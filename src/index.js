@@ -1,5 +1,5 @@
 const express = require("express"),
-      stringFormatter = require('./codeChallenge').stringFormatter;
+      stringFormatter = require('./Formatter').stringFormatter;
 const app = express();
 
 //app.use(bodyParser.json())

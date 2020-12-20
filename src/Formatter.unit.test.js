@@ -1,4 +1,4 @@
-const stringFormatter = require('./codeChallenge').stringFormatter
+const stringFormatter = require('./Formatter').stringFormatter
 
 describe('Test string formatter', () => {
     it('swap the beginnings of the words, up to and including the first vowel', () => {
